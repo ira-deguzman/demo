@@ -1,2 +1,2 @@
 # demo
-Part of Git &amp; GitHub exercise
+Part of Git and GitHub exercise
